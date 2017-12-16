@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Afxsoft/js-core.git"
+    "url": "https://github.com/Afxsoft/js-core.git"
   },
   "author": "Afxsoft",
   "license": "ISC",
