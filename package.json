@@ -1,0 +1,22 @@
+{
+  "name": "js-core",
+  "version": "1.0.0",
+  "description": "theme core js",
+  "main": "core.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Afxsoft/js-core.git"
+  },
+  "author": "Afxsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afxsoft/js-core/issues"
+  },
+  "homepage": "https://github.com/Afxsoft/js-core#readme",
+  "files": [
+    "dist"
+  ]
+}
